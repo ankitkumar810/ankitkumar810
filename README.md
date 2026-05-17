@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Ankit 👋
+
+🎓 Computer Science Student
+💻 Java & DSA Learner
+🌐 Exploring Web Development & Open Source
+🚀 GSSoC'26 Contributor 👋
 
 <!--
 **ankitkumar810/ankitkumar810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
