@@ -1,9 +1,33 @@
-## Hi, I'm Ankit 👋
+# Hi, I'm Ankit 👋
 
-🎓 Computer Science Student
-💻 Java & DSA Learner
-🌐 Exploring Web Development & Open Source
-🚀 GSSoC'26 Contributor 👋
+* 🎓 Computer Science Student
+* 🚀 GSSoC'26 Contributor
+* 💻 Java & DSA Learner
+* 🌐 Exploring Web Development & Open Source
+
+
+
+## 🚀 Tech Stack
+* Java
+* HTML, CSS, JavaScript
+* SQL
+* Git & GitHub
+* Operating Systems
+* Data Structures & Algorithms
+* MERN Stack
+
+## Current Goals
+* Contribute consistently to Open Source
+* Strengthen DSA & Development skills
+* Build impactful projects
+* Grow as a Software Engineer
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ankit-kumar-693575323/
+* Email: ankit5456kumar@gmail.com
+
+⭐ “Learning one commit at a time.”
 
 <!--
 **ankitkumar810/ankitkumar810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
