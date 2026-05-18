@@ -1,7 +1,7 @@
 # Hi, I'm Ankit 👋
 
 * 🎓 Computer Science Student
-* 🚀 GSSoC'26 Contributor
+* 🚀 GSSOC'26 Contributor
 * 💻 Java & DSA Learner
 * 🌐 Exploring Web Development & Open Source
 
