@@ -28,7 +28,7 @@
 * LinkedIn: https://www.linkedin.com/in/ankit-kumar-693575323/
 * Email: ankit5456kumar@gmail.com
 
-⭐ “Learning one commit at a time.”
+⭐ “Learning one commit at a time!”
 
 <!--
 **ankitkumar810/ankitkumar810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
