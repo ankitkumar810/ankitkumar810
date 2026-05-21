@@ -18,7 +18,7 @@
 * MERN Stack
 
 ## Current Goals
-* Contribute consistently to Open Source
+* Contributing consistently to Open Source
 * Strengthen DSA & Development skills
 * Build impactful projects
 * Grow as a Software Engineer
