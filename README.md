@@ -7,12 +7,12 @@
 </p>
 
 ## 💡 Code. Learn. Build. Repeat.
-* 🎓 B.Tech CSE Student
-* 💻 Aspiring Full Stack Developer & DSA Enthusiast
-* 🌟 GSSoC’26 Contributor
-* 🏆 Winner @ CODEQUEST 2025
-* ✨ Innovative Mind @ PU Code Hackathon 3.0
-* 🚀 Building real-world projects and growing through hackathons
+* 🎓 **B.Tech CSE Student**
+* 💻 **Aspiring Full Stack Developer** & DSA Enthusiast
+* 🌟 **GSSoC’26 Contributor**
+* 🏆 **Winner @ CODEQUEST 2025**
+* ✨ **Innovative Mind @ PU Code Hackathon 3.0**
+* 🚀 Building **real-world projects** and growing through hackathons
 
 ## 🚀 Tech Stack
 <p align="center">
@@ -23,10 +23,10 @@
 
 ## 🚀 My Journey in Tech
 
-* 🚀 Turning ideas into real-world tech projects
-* 🧠 Growing through DSA, problem-solving & continuous learning
+* 🚀 Turning ideas into **real-world tech projects**
+* 🧠 Growing through **DSA, problem-solving & continuous learning**
 * 🌍 Contributing to Open Source and exploring modern technologies
-* 🎯 Building myself into a skilled and impactful Software Engineer
+* 🎯 Building myself into a **skilled and impactful Software Engineer**
   
 ## 🛠️ What Keeps Me Going
 <i>The excitement of turning ideas into reality through code.<i/>
@@ -46,4 +46,4 @@
 
 
 ## 🌟 Final Note
-💭 No problem is too big, and no idea is too small when you're willing to learn and build.
+💭 **No problem is too big, and no idea is too small** when you're willing to learn and build.
