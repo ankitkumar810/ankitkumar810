@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## 🚀 My Journey in Tech
+## 💻 My Journey in Tech
 
 * 🚀 Turning ideas into **real-world tech projects**
 * 🧠 Growing through **DSA, problem-solving & continuous learning**
