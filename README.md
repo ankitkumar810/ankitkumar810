@@ -62,4 +62,4 @@
 ---
 
 ## 🌟 Final Note
-💭 **No problem is too big, and no idea is too small** when you're willing to learn and build.
+💭 **No problem is too big, and no idea is too small** when you're willing to learn and build!
