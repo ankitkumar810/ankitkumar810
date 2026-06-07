@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Ankit Kumar
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+Developer;GSSOC'26+Contributor;Winner+%40+CODEQUEST+2025;Innovative+Mind+%40+PU+CODE++3.0;Building+Real-World+Projects+"/>
