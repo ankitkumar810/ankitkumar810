@@ -10,7 +10,7 @@
 
 ## 💡 Code. Learn. Build. Repeat.
 * 🎓 **B.Tech CSE Student**
-* 💻 **Aspiring Full Stack Developer** & DSA Enthusiast
+* 💻 **Aspiring Full Stack Developer** & **DSA Learner**
 * 🌟 **GSSoC’26 Contributor**
 * 🏆 **Winner @ CODEQUEST 2025**
 * ✨ **Innovative Mind @ PU Code Hackathon 3.0**
@@ -61,4 +61,4 @@
 ---
 
 ## 🌟 Final Note
-💭 **No problem is too big, and no idea is too small** when you're willing to learn and build!
+💭 **_No problem is too big, and no solution is too small._**
