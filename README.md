@@ -14,7 +14,7 @@
 * 🌟 **GSSoC’26 Contributor**
 * 🏆 **Winner @ CODEQUEST 2025**
 * ✨ **Innovative Mind @ PU Code Hackathon 3.0**
-* 🚀 Building **real-world projects** and growing through hackathons
+* 🚀 Building **real-world projects** and growing through **hackathons**
 
 --- 
 
