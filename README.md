@@ -16,12 +16,12 @@
 * ✨ **Innovative Mind @ PU Code Hackathon 3.0**
 * 🚀 Building **real-world projects** and growing through **hackathons**
 
---- 
+---
 
 ## 🚀 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,mongodb,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,mongodb,react,express" />
   </a>
 </p>
 
