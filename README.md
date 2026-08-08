@@ -9,7 +9,7 @@
 ---
 
 ## 💡 Code. Learn. Build. Repeat.
-* 🎓 **B.Tech CSE Student **
+* 🎓 **B.Tech CSE Student**
 * 💻 **Aspiring Full Stack Developer** & **DSA Learner**
 * 🌟 **GSSoC’26 Contributor**
 * 🏆 **Winner @CODEQUEST 2025**
